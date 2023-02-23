@@ -5,11 +5,11 @@ Naive Bayes is a learning algorithm commonly applied to text classification.
 
 ## Vocabulary
 ['This', 'book', 'is', 'good', 'very', 'bad', 'novel', 'some', 'and', 'little', 'but'] <br>
-### Positive Class <br>
+#### Positive Class <br>
 {'This': 2, 'book': 1, 'is': 2, 'good': 3, 'very': 1, 'bad': 0, 'novel': 1, 'some': 0, 'and': 0, 'little': 0, 'but': 0} <br>
-###  Negative Class <br>
+#### Negative Class <br>
 {'This': 2, 'book': 1, 'is': 2, 'good': 0, 'very': 1, 'bad': 3, 'novel': 1, 'some': 0, 'and': 0, 'little': 0, 'but': 0} <br>
-###  Neutral Class <br>
+#### Neutral Class <br>
 {'This': 2, 'book': 1, 'is': 2, 'good': 2, 'very': 0, 'bad': 2, 'novel': 1, 'some': 2, 'and': 1, 'little': 2, 'but': 1} <br>
 
 
